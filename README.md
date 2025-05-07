@@ -36,6 +36,6 @@ Microsoft Excel
  Filter by Month
  
 ## Data Visualization
-![Table](https://github.com/Ola-ykay/Global-Debts/blob/main/table-global%20debt.png)
-![Calculations](https://github.com/Ola-ykay/Global-Debts/blob/main/table-global%20debt.png)
-![Dashboard](https://github.com/Ola-ykay/Global-Debts/blob/main/table-global%20debt.png)
+![Dataset](https://github.com/Ola-ykay/Personal-Finance-Tracker/blob/main/pft-dataset.png)
+![Calculations](https://github.com/Ola-ykay/Personal-Finance-Tracker/blob/main/pft-calculations.png)
+![Dashboard](https://github.com/Ola-ykay/Personal-Finance-Tracker/blob/main/pft--dashboard.png)
