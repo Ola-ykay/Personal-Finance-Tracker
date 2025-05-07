@@ -32,7 +32,7 @@ Microsoft Excel
 - Income Sources
 - Income and Spending Trends(Monthly & Weekly)
 
-## Slicer
+## Slicers
  Filter by Month
  
 ## Data Visualization
